@@ -12,9 +12,8 @@ public class Kiralynok {
         
         
         System.out.println("6. feladat");
-        
-        
-        
+        tabla.elhelyez(8);
+        tabla.megjelenit();
         
     }
     
